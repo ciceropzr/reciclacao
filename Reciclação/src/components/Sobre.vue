@@ -20,7 +20,7 @@
           <h3><a href="">Saiba mais >></a></h3>
       </div>
         <div class="sobre-img">
-            <img src="../assets/01.jpg">
+            <img src="../assets/desabamento3.jpg">
         </div>      
   </section>
 </template>
@@ -44,7 +44,7 @@ export default {
 
 section{
   width: 100%;
-  background-image: url("../assets/01.jpg")no-repeat center center;
+  background-image: url("../assets/desabamento3.jpg")no-repeat center center;
 }
   @media (min-width: 768px){              
       section{
@@ -72,13 +72,14 @@ section{
   font-family: 'Roboto Slab, Bold';
   color: #00923F;
   margin-left:  15px;
-  font-size: 2.45em;
+  font-size: 3em;
   margin-bottom: 0;
 }
 
 .sobre-txt{
   width: 90%;
   font-family:'Roboto Slab, Regular';
+  color: #000000;
   font-size: 0.75em;  
   line-height: 1.25em;
 }
@@ -104,8 +105,8 @@ a:link, a:visited {
 }
 
 img{
-  width: 100%;
-        }
+  width: 80%;
+}
 
 
             @media (min-width: 768px) {

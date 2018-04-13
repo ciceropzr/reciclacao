@@ -83,7 +83,9 @@ img {
 h1 {
   text-align: center;
   color: white;
-  font-size: 1.34em
+  font-size: 2em;  
+  font-family: 'Roboto Slab';
+  font-weight: bolder;
 }
 
 .csobre {
